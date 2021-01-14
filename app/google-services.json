@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "255836992009",
+    "project_id": "mytweeter-dc4bf",
+    "storage_bucket": "mytweeter-dc4bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255836992009:android:bcf245e7d424a403fbfed8",
+        "android_client_info": {
+          "package_name": "com.example.mytweeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255836992009-va5mg9jqoinjjna8qua8kcnbrfhga5ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytweeter",
+            "certificate_hash": "b7fcb042255c494f65147b51a744150589e8010a"
+          }
+        },
+        {
+          "client_id": "255836992009-4h929p89d3dm254eruph7s2i408ogiv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMm_bTvn5ojDtf-XQ3BkkYsNzChcFppXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255836992009-4h929p89d3dm254eruph7s2i408ogiv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
